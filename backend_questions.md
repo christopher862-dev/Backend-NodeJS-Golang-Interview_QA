@@ -15,7 +15,7 @@ How would you i  mplement this in:
   - Use `sync.WaitGroup` to wait for all tasks to finish.
   - Example:
     ```go   
-    var wg sync.WaitGroup
+    var wg sync.WaitGroup  
     for _, task := range tasks {
         wg.Add(1)
         go func(t Task) {
