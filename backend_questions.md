@@ -33,7 +33,7 @@ How would you i  mplement this in:
   - Example:
     ```javascript
     await Promise.all(tasks.map(async task => {
-        await processTask(task);
+        await processTask(task);vv
     }));
     ```
 
