@@ -23,7 +23,7 @@ How would you i  mplement this in:
             processTask(t)
         }(task)
     }
-    wg.Wait()
+    wg.Wait()  
     ```
 
 - **Node.js:**
