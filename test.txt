@@ -2,5 +2,3 @@
 
 
 | 30 | [What is an advantage of Go evaluating implicit types at compile time?](#what-is-an-advantage-of-go-evaluating-implicit-types-at-compile-time)
-dfddfsdf
-
