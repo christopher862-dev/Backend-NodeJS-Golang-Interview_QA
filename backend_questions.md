@@ -9,7 +9,7 @@ How would you i  mplement this in:
 
 **Answer Outline:**
 
-- **Go:**
+- **Go:**                  
   - Use goroutines to sp  awn concurrent tasks.
   - Communicate results or errors through channels.
   - Use `sync.WaitGroup` to wait for all tasks to finish.
