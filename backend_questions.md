@@ -2,7 +2,7 @@
 
 **Question:**  
 In a backend service, you need to process multiple independent tasks concurrently, ensuring that all tasks complete before sending the final response.  
-How would you implement this in:
+How would you i  mplement this in:
 
 1. **Go** using goroutines and channels  
 2. **Node.js** using async/await and `Promise.all`
