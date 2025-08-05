@@ -14,7 +14,7 @@ How would you i  mplement this in:
   - Communicate results or errors through channels.
   - Use `sync.WaitGroup` to wait for all tasks to finish.
   - Example:
-    ```go
+    ```go   
     var wg sync.WaitGroup
     for _, task := range tasks {
         wg.Add(1)
